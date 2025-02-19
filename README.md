@@ -13,9 +13,9 @@ Hi, I'm Carolina!<br>👩‍🎓 I’m currently studying Information Systems.<b
 ![](https://github-readme-stats.vercel.app/api?username=Aya-Osawa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aya-Osawa/Aya-Osawa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aya-Osawa/Aya-Osawa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aya-Osawa/Aya-Osawa/output/github-snake.svg" />
 </picture>
 
 ---
